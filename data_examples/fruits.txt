@@ -1,4 +1,4 @@
-banana	peach	apple	appricot	melon
+banana	peach	apple	apricot	melon
 2.18	3.83	2.05	2.05	2.01
 1.35	3.15	0.505	0.505	3.62
 0.412	5.02	2.21	2.21	2.53
